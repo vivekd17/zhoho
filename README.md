@@ -38,4 +38,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # zhoho
 Web Application Used for Video Call and Online Meetings just like ZOOM , Google Meet
+<<<<<<< HEAD
 >>>>>>> 8366be2fdb8c9c0a8183c8f4780714c97bed24d1
+=======
+<<<<<<< HEAD
+(your local README content)
+=======
+(the GitHub repo README content)
+>>>>>>> main
+>>>>>>> 98223b14ef21d97f3d15f5cab70942c9c45dbed4
+
+
+ctrl + p :- to open direct file
+2. npx shadcn@latest add button
